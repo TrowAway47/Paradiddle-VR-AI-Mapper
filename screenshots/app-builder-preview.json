@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ParaPack",
+      "hasCanvas": false,
+      "bodyTextLen": 650,
+      "bodyTextHash": "12a1f6bc8135b67199bad98a76c313d56f107d0f4700580889a390b6b2de92d1",
+      "bodyTextPrefix": "ParaPack PARADIDDLE VR MAPPER song.ogg · album.png · Title_Exper",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ParaPack",
+      "hasCanvas": false,
+      "bodyTextLen": 609,
+      "bodyTextHash": "9afbc0302aab23decfccf70f75df64bca63ac42dca9a261a65fc752237e48a24",
+      "bodyTextPrefix": "ParaPack PARADIDDLE VR MAPPER Map it. Pack it. Play it. Upload a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "f8d1ab94726da790e0b86dd741e7b5f39bcfcd81",
+    "size": 0,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/.github?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/.github",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/f8d1ab94726da790e0b86dd741e7b5f39bcfcd81",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/f8d1ab94726da790e0b86dd741e7b5f39bcfcd81",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "8838ea0502250bbc175a9b61ae853ac54470250f",
+    "size": 2786,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/8838ea0502250bbc175a9b61ae853ac54470250f",
+    "download_url": "https://raw.githubusercontent.com/emretanirgan/ParadiddleUtilities/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/8838ea0502250bbc175a9b61ae853ac54470250f",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": ".vscode",
+    "path": ".vscode",
+    "sha": "3c4cc3b88fb3441c1fe60e5d14af044e0a2eb854",
+    "size": 0,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/.vscode?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/.vscode",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/3c4cc3b88fb3441c1fe60e5d14af044e0a2eb854",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/.vscode?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/3c4cc3b88fb3441c1fe60e5d14af044e0a2eb854",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/.vscode"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "e72bfddabc15be5718a7cc061ac10e47741d8219",
+    "size": 35148,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/e72bfddabc15be5718a7cc061ac10e47741d8219",
+    "download_url": "https://raw.githubusercontent.com/emretanirgan/ParadiddleUtilities/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/e72bfddabc15be5718a7cc061ac10e47741d8219",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "PDUtil.py",
+    "path": "PDUtil.py",
+    "sha": "b23f64ea47f9d752f4eb13e31b2a0588ba27d6f2",
+    "size": 2142,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/PDUtil.py?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/PDUtil.py",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b23f64ea47f9d752f4eb13e31b2a0588ba27d6f2",
+    "download_url": "https://raw.githubusercontent.com/emretanirgan/ParadiddleUtilities/master/PDUtil.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/PDUtil.py?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b23f64ea47f9d752f4eb13e31b2a0588ba27d6f2",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/PDUtil.py"
+    }
+  },
+  {
+    "name": "PDUtil.spec",
+    "path": "PDUtil.spec",
+    "sha": "be9b5776df3b81bbaeb0e5de320a24c2f8f37b75",
+    "size": 1262,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/PDUtil.spec?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/PDUtil.spec",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/be9b5776df3b81bbaeb0e5de320a24c2f8f37b75",
+    "download_url": "https://raw.githubusercontent.com/emretanirgan/ParadiddleUtilities/master/PDUtil.spec",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/PDUtil.spec?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/be9b5776df3b81bbaeb0e5de320a24c2f8f37b75",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/PDUtil.spec"
+    }
+  },
+  {
+    "name": "PDUtilities",
+    "path": "PDUtilities",
+    "sha": "b0d07a598bcba1e6d4e03856b2c3e3e142a7c798",
+    "size": 0,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/PDUtilities?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/PDUtilities",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/b0d07a598bcba1e6d4e03856b2c3e3e142a7c798",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/PDUtilities?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/b0d07a598bcba1e6d4e03856b2c3e3e142a7c798",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/PDUtilities"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "b9fae082c4dfad2a51fe04bf2dc4b7c6d4234ab3",
+    "size": 570,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/README.md?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b9fae082c4dfad2a51fe04bf2dc4b7c6d4234ab3",
+    "download_url": "https://raw.githubusercontent.com/emretanirgan/ParadiddleUtilities/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b9fae082c4dfad2a51fe04bf2dc4b7c6d4234ab3",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/README.md"
+    }
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "2876538fce13904b8c0aed504bae4ba8e0db1282",
+    "size": 0,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/docs?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/docs",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/2876538fce13904b8c0aed504bae4ba8e0db1282",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/docs?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/2876538fce13904b8c0aed504bae4ba8e0db1282",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/docs"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "d3ce65ded955d470b71d29aecf0aa0a97909caf9",
+    "size": 961,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/pyproject.toml?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/pyproject.toml",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/d3ce65ded955d470b71d29aecf0aa0a97909caf9",
+    "download_url": "https://raw.githubusercontent.com/emretanirgan/ParadiddleUtilities/master/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/pyproject.toml?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/d3ce65ded955d470b71d29aecf0aa0a97909caf9",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/blob/master/pyproject.toml"
+    }
+  },
+  {
+    "name": "workflows",
+    "path": "workflows",
+    "sha": "01852c6891c4fa4312d3816d1c364118afda39d8",
+    "size": 0,
+    "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/workflows?ref=master",
+    "html_url": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/workflows",
+    "git_url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/01852c6891c4fa4312d3816d1c364118afda39d8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/contents/workflows?ref=master",
+      "git": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/01852c6891c4fa4312d3816d1c364118afda39d8",
+      "html": "https://github.com/emretanirgan/ParadiddleUtilities/tree/master/workflows"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #08090b;
+  --color-surface: #111318;
+  --color-surface-2: #181b22;
+  --color-surface-3: #22262f;
+  --color-fg: #eceef2;
+  --color-muted: #8b909c;
+  --color-subtle: #616672;
+  --color-accent: #c9d0db;
+  --color-accent-fg: #08090b;
+  --color-border: #2a2e38;
+  --color-border-strong: #3c4250;
+  --color-ring: #c9d0db;
+  --color-danger: #c45c5c;
+  --color-ok: #7d9a7c;
+  --color-lane-kick: #d7dde6;
+  --color-lane-snare: #b7bec9;
+  --color-lane-hat: #7b828f;
+  --color-lane-crash: #eceef2;
+  --color-lane-ride: #9aa3b2;
+  --color-lane-tom: #6d7380;
+
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Bebas Neue", "IBM Plex Sans", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-2xl: 32px;
+
+  --shadow-panel: 0 18px 40px -28px rgb(0 0 0 / 0.7);
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html,
+  body,
+  #app {
+    min-height: 100%;
+    background: var(--color-bg);
+    color: var(--color-fg);
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-image:
+      radial-gradient(1200px 600px at 50% -10%, rgb(201 208 219 / 0.05), transparent 55%),
+      linear-gradient(180deg, #0c0d10 0%, var(--color-bg) 40%);
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-accent) 35%, transparent);
+    color: var(--color-fg);
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+    letter-spacing: 0.04em;
+    text-wrap: balance;
+  }
+
+  .text-pretty {
+    text-wrap: pretty;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

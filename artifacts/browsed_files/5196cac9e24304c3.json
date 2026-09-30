@@ -1,0 +1,348 @@
+{
+  "sha": "39d05fc1bb11782de6b9d46d3f9721c9fab0d3c1",
+  "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/39d05fc1bb11782de6b9d46d3f9721c9fab0d3c1",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f8d1ab94726da790e0b86dd741e7b5f39bcfcd81",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/f8d1ab94726da790e0b86dd741e7b5f39bcfcd81"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1ef23a31ba8982b5addbee2f01777cfad68003f7",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/1ef23a31ba8982b5addbee2f01777cfad68003f7"
+    },
+    {
+      "path": ".github/workflows/main.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe46095b12d5bdbe86d47ca7ee7efb870ebd9490",
+      "size": 1146,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/fe46095b12d5bdbe86d47ca7ee7efb870ebd9490"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8838ea0502250bbc175a9b61ae853ac54470250f",
+      "size": 2786,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/8838ea0502250bbc175a9b61ae853ac54470250f"
+    },
+    {
+      "path": ".vscode",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3c4cc3b88fb3441c1fe60e5d14af044e0a2eb854",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/3c4cc3b88fb3441c1fe60e5d14af044e0a2eb854"
+    },
+    {
+      "path": ".vscode/settings.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26df38bf5e1655464ef1fbf2c6c258a15c2c3752",
+      "size": 39,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/26df38bf5e1655464ef1fbf2c6c258a15c2c3752"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e72bfddabc15be5718a7cc061ac10e47741d8219",
+      "size": 35148,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/e72bfddabc15be5718a7cc061ac10e47741d8219"
+    },
+    {
+      "path": "PDUtil.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b23f64ea47f9d752f4eb13e31b2a0588ba27d6f2",
+      "size": 2142,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b23f64ea47f9d752f4eb13e31b2a0588ba27d6f2"
+    },
+    {
+      "path": "PDUtil.spec",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be9b5776df3b81bbaeb0e5de320a24c2f8f37b75",
+      "size": 1262,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/be9b5776df3b81bbaeb0e5de320a24c2f8f37b75"
+    },
+    {
+      "path": "PDUtilities",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b0d07a598bcba1e6d4e03856b2c3e3e142a7c798",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/b0d07a598bcba1e6d4e03856b2c3e3e142a7c798"
+    },
+    {
+      "path": "PDUtilities/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ceaebfab381467a45870fbb905a373ea812df605",
+      "size": 21,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/ceaebfab381467a45870fbb905a373ea812df605"
+    },
+    {
+      "path": "PDUtilities/__main__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdc70a452af5fc5cb5657570acc69adafa7acf80",
+      "size": 941,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/bdc70a452af5fc5cb5657570acc69adafa7acf80"
+    },
+    {
+      "path": "PDUtilities/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7e8d47aedb813357bb55e63a6803a0fbb4d1363c",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/7e8d47aedb813357bb55e63a6803a0fbb4d1363c"
+    },
+    {
+      "path": "PDUtilities/assets/favicon.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6d7eec51bbbbda64430301208f2d94b10d25118",
+      "size": 9471,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b6d7eec51bbbbda64430301208f2d94b10d25118"
+    },
+    {
+      "path": "PDUtilities/drum_samples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d015c7b8e0e816cc17ffd8c384490e64827924c8",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/d015c7b8e0e816cc17ffd8c384490e64827924c8"
+    },
+    {
+      "path": "PDUtilities/drum_samples/crash.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a29744f2e1b5613339569927256c2ebfdd587ab",
+      "size": 1142902,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/7a29744f2e1b5613339569927256c2ebfdd587ab"
+    },
+    {
+      "path": "PDUtilities/drum_samples/floortom.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c712262c57eede9ce2b3f9d5109a73182d375639",
+      "size": 142516,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/c712262c57eede9ce2b3f9d5109a73182d375639"
+    },
+    {
+      "path": "PDUtilities/drum_samples/hihat.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f4fd0b601bf242f3acdba4a7a0b5df3a0c36016",
+      "size": 377534,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/5f4fd0b601bf242f3acdba4a7a0b5df3a0c36016"
+    },
+    {
+      "path": "PDUtilities/drum_samples/kick.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e40f213d7a142a7c8d23b6ef5a7c5f0027c65869",
+      "size": 303674,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/e40f213d7a142a7c8d23b6ef5a7c5f0027c65869"
+    },
+    {
+      "path": "PDUtilities/drum_samples/ride.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fefb093d4bd8a640348642f908b5f0b0b97ffe07",
+      "size": 132122,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/fefb093d4bd8a640348642f908b5f0b0b97ffe07"
+    },
+    {
+      "path": "PDUtilities/drum_samples/snare.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6495137edd30c31cc187c93819958bc455739814",
+      "size": 377534,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/6495137edd30c31cc187c93819958bc455739814"
+    },
+    {
+      "path": "PDUtilities/drum_samples/tom1.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c712262c57eede9ce2b3f9d5109a73182d375639",
+      "size": 142516,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/c712262c57eede9ce2b3f9d5109a73182d375639"
+    },
+    {
+      "path": "PDUtilities/drum_samples/tom2.wav",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c712262c57eede9ce2b3f9d5109a73182d375639",
+      "size": 142516,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/c712262c57eede9ce2b3f9d5109a73182d375639"
+    },
+    {
+      "path": "PDUtilities/drum_sets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d7ff4fe5650913fc55d5e4ff0e64f813475d7405",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/d7ff4fe5650913fc55d5e4ff0e64f813475d7405"
+    },
+    {
+      "path": "PDUtilities/drum_sets/defaultset.rlrr",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75b5babaa6a758aab0e89e1f8464fb4187d0ff33",
+      "size": 3736,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/75b5babaa6a758aab0e89e1f8464fb4187d0ff33"
+    },
+    {
+      "path": "PDUtilities/midi_maps",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fb8754eb3b9d2daf8b0f0f632790e24269e9a898",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/fb8754eb3b9d2daf8b0f0f632790e24269e9a898"
+    },
+    {
+      "path": "PDUtilities/midi_maps/midi_mapping.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c7b298e64864963dbd38c466fccb7f8b9f6e1bc",
+      "size": 3177,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/9c7b298e64864963dbd38c466fccb7f8b9f6e1bc"
+    },
+    {
+      "path": "PDUtilities/midi_maps/pdtracks_mapping.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a61ffdabb620c41771b55cc6263a2f5be9a1715",
+      "size": 1200,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/3a61ffdabb620c41771b55cc6263a2f5be9a1715"
+    },
+    {
+      "path": "PDUtilities/midi_maps/rhythm_ game_mapping.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be94325f6fbba010147c009fdf57784508e6a8ad",
+      "size": 2394,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/be94325f6fbba010147c009fdf57784508e6a8ad"
+    },
+    {
+      "path": "PDUtilities/midi_maps/rhythm_ game_mapping_gh.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84014e95362cb587873cd0e6ce92f5883bae7042",
+      "size": 1193,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/84014e95362cb587873cd0e6ce92f5883bae7042"
+    },
+    {
+      "path": "PDUtilities/midicompanion.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acc3726146a58b88e1fdc7426d3c43041271d6aa",
+      "size": 21373,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/acc3726146a58b88e1fdc7426d3c43041271d6aa"
+    },
+    {
+      "path": "PDUtilities/midiconvert.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfd6453ff9e24f0a2cc48f1882cd01be5dc2a578",
+      "size": 21355,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/dfd6453ff9e24f0a2cc48f1882cd01be5dc2a578"
+    },
+    {
+      "path": "PDUtilities/pd_gui.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38cec4ab075333a15f873948cfc5d9e36a50e9c9",
+      "size": 18760,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/38cec4ab075333a15f873948cfc5d9e36a50e9c9"
+    },
+    {
+      "path": "PDUtilities/song_display.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6acd4849f0581f7a2cc709b42fe3664d9df6c46e",
+      "size": 85300,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/6acd4849f0581f7a2cc709b42fe3664d9df6c46e"
+    },
+    {
+      "path": "PDUtilities/ui_layouts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "218b15589c3c2c3c60614389c79172ea800f5f5f",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/218b15589c3c2c3c60614389c79172ea800f5f5f"
+    },
+    {
+      "path": "PDUtilities/ui_layouts/pd_gui_layout.ui",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b311b78a8fa5b0bdfe85b425fecec5410c7db6f3",
+      "size": 69158,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b311b78a8fa5b0bdfe85b425fecec5410c7db6f3"
+    },
+    {
+      "path": "PDUtilities/ui_layouts/song_display_layout.ui",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eff125df25e3ed71ca80f783134b3db24f9fa3f1",
+      "size": 5827,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/eff125df25e3ed71ca80f783134b3db24f9fa3f1"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9fae082c4dfad2a51fe04bf2dc4b7c6d4234ab3",
+      "size": 570,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/b9fae082c4dfad2a51fe04bf2dc4b7c6d4234ab3"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2876538fce13904b8c0aed504bae4ba8e0db1282",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/2876538fce13904b8c0aed504bae4ba8e0db1282"
+    },
+    {
+      "path": "docs/rlrrschema.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7feaaecf853f132fa9b7f5f105d8b6e967e2f77",
+      "size": 5632,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/a7feaaecf853f132fa9b7f5f105d8b6e967e2f77"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3ce65ded955d470b71d29aecf0aa0a97909caf9",
+      "size": 961,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/d3ce65ded955d470b71d29aecf0aa0a97909caf9"
+    },
+    {
+      "path": "workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "01852c6891c4fa4312d3816d1c364118afda39d8",
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/trees/01852c6891c4fa4312d3816d1c364118afda39d8"
+    },
+    {
+      "path": "workflows/build.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ae0db58874cf088cf825273417237238e9ba70c",
+      "size": 68,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/1ae0db58874cf088cf825273417237238e9ba70c"
+    },
+    {
+      "path": "workflows/build2.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16422ddad74d90bd384339e8d10290c252b6e85c",
+      "size": 319,
+      "url": "https://api.github.com/repos/emretanirgan/ParadiddleUtilities/git/blobs/16422ddad74d90bd384339e8d10290c252b6e85c"
+    }
+  ],
+  "truncated": false
+}
